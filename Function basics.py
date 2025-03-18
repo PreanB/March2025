@@ -10,4 +10,5 @@ def greetings(language):
 
     print(greeting)
 
+
 greetings('French')
